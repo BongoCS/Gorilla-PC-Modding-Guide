@@ -27,3 +27,4 @@ If you installed your game on your main drive, this should be your installation 
 If you installed your game in a different location, follow these instructions to find your installation folder.
 
 1. Open Steam and right-click on Gorilla Tag. Then, go to Manage > Browse local files.
+https://github.com/BongoCS/Gorilla-PC-Modding-Guide/blob/main/Pictures/localfilescontext.png

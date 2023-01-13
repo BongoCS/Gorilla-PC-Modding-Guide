@@ -28,3 +28,12 @@ If you installed your game in a different location, follow these instructions to
 
 1. Open Steam and right-click on Gorilla Tag. Then, go to Manage > Browse local files.
 ![image](https://user-images.githubusercontent.com/121695210/212397870-f5b1f7a8-b9d5-4789-94cd-91484d21ff37.png)
+
+2. Click the address bar at the top to select your installation folder’s path. Hit CTRL+C to copy this to your clipboard.
+![image](https://user-images.githubusercontent.com/121695210/212397961-a5e6a30f-5f35-4a4b-b518-31ee780c8ae1.png)
+
+## Manual Installation
+A mod installer is the recommended way to install mods. See the section above. If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
+
+##### Install BepInEx
+Download [BepInEx](https://github.com/DeadlyKitten/MonkeModManager/releases/tag/1.3.0)

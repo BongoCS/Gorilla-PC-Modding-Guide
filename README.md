@@ -64,3 +64,4 @@ Check out the [PC Mod Updating Guide](https://gorillatagmodding.burrito.software
 
 # Credits
 [Sponsor The Main Writer](https://github.com/sponsors/burritosoftware)
+[Tip the Main Writer](https://streamelements.com/burritosoft/tip)

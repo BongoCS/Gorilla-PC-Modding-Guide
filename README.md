@@ -8,7 +8,7 @@ Monke Mod Manager is a mod installer that will install custom mods into Gorilla 
 
 You are going to want to download and install this.
 
-###### Note: If Windows alerts you that the file is unsafe/at risk, choose to keep/run anyway. This is a false-positive.
+#### Note: If Windows alerts you that the file is unsafe/at risk, choose to keep/run anyway. This is a false-positive.
 
 After you’ve downloaded Monke Mod Manager, double-click the executable to run it. By default, Monke Mod Manager should automatically fill in your Gorilla Tag installation folder.
 
@@ -35,7 +35,7 @@ If you installed your game in a different location, follow these instructions to
 ## Manual Installation
 A mod installer is the recommended way to install mods. See the section above. If you have patched the game and just need to install mods that are not available in the installer, skip to step 4.
 
-##### Install BepInEx
+### Install BepInEx
 Download [BepInEx](https://github.com/DeadlyKitten/MonkeModManager/releases/tag/1.3.0)
 
 You will want to get ***BepinEx_x64_VERSION.zip***, with **VERSION** being the version number.
@@ -45,7 +45,7 @@ Extract the contents of the BepInEx .zip file to the install folder of your Gori
 
 Run Gorilla Tag once to complete installation.
 
-##### Install Mods
+### Install Mods
 Download the mod(s) you wish to install, whether it be from GitHub, the [GorillaTag Modding Discord](https://discord.gg/monkemod) **#pc-mod-releases** channel, or other sources. **Make sure to download any dependencies required by the mod.**
 ![image](https://user-images.githubusercontent.com/121695210/212398928-9498b734-16b6-49c6-b268-b01113cf89f7.png)
 

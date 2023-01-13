@@ -1,3 +1,12 @@
+# Quick Find
+[MonkeModManager](https://github.com/DeadlyKitten/MonkeModManager/releases/tag/1.3.0)
+[Gorilla Tag Modding Discord](https://discord.gg/monkemod)
+[PC Custom Maps Guide](https://gorillatagmodding.burrito.software/#/pc-maploading)
+[PC Mod Updating Guide](https://gorillatagmodding.burrito.software/#/pc-updating)
+[Sponsor The Main Writer](https://github.com/sponsors/burritosoftware)
+[Tip the Main Writer](https://streamelements.com/burritosoft/tip)
+
+
 # GorillaTag PC Modding Guide
 
 # Setting up MonkeModManager
